@@ -1,0 +1,72 @@
+﻿@inherits Nancy.ViewEngines.Razor.NancyRazorViewBase<dynamic> 
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"> 
+<html>
+<head>
+    <title>Nancy - Static view served by self-host</title>
+    <style type="text/css">
+        table#t01 tr:nth-child(even) {
+            background-color: #eee;
+        }
+        table#t01 tr:nth-child(odd) {
+            background-color: #fff;
+        }
+        table#t01 th {
+            color: white;
+            background-color: black;
+        }
+
+        table#t01 caption {
+            background-color: #eee;
+        }
+
+        table#t01, th, td {
+            border: 1px solid black;
+            border-collapse: collapse;
+            padding: 5px;
+        }
+
+        #map {
+            width: 500px;
+            height: 400px;
+            background-color: #CCC;
+        }
+
+    </style>
+    <script src="https://maps.googleapis.com/maps/api/js"></script>
+    <script>
+        function initialize() {
+            var mapCanvas = document.getElementById('map');
+            var mapOptions = {
+                center: new google.maps.LatLng(44.5403, -78.5463),
+                zoom: 8,
+                mapTypeId: google.maps.MapTypeId.ROADMAP
+            };
+            var map = new google.maps.Map(mapCanvas, mapOptions);
+        }
+        google.maps.event.addDomListener(window, 'load', initialize);
+    </script>
+</head> 
+	<body> 
+	    <h1>Static view served by self-host</h1> 
+        <p> 
+            This view was served by the Nancy self-host. 
+         </p>
+
+	<p><button onclick="geoFindMe()">Show my location</button></p>
+
+        <div id="map"></div>
+	    <table id="t01">
+	        <caption>Companies</caption>
+	        <tr><th>Name</th><th>Description</th></tr>
+	        @{
+	            foreach (var thing in Model)
+	            {
+	                <tr>
+	                    <td>@thing.Name</td>
+	                    <td>@thing.Description</td>
+	                </tr>
+	            }
+	        }
+	    </table>
+ 	</body> 
+ </html> 
