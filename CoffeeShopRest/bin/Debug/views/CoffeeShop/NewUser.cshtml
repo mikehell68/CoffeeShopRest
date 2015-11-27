@@ -1,31 +1,38 @@
 ﻿@{ ViewBag.Title = "NewUser - Register"; }
-
 @inherits Nancy.ViewEngines.Razor.NancyRazorViewBase<dynamic>
 
-<div class="container-fluid">
-    <div class="row-fluid">
-        <h1>Register a Coffee Shop Account</h1>
-        
-        <form class="form-horizontal" method="POST" action="~/register">
-            <div class="control-group">
-                <label class="control-label" for="Name">Company Name</label>
-                <div class="controls">
-                    <input type="text" name="Name" id="Name" placeholder="Name">
-                </div>
-            </div>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"> 
+<html>
+<head>
+    <title></title>
+</head>
+<body>
+    <div class="container-fluid">
+        <div class="row-fluid">
+            <h1>Register a Coffee Shop Account</h1>
 
-            <div class="control-group">
-                <label class="control-label" for="Description">Description</label>
-                <div class="controls">
-                    <input type="text" id="Description" name="Description" placeholder="Description">
+            <form class="form-horizontal" method="POST" action="~/register">
+                <div class="control-group">
+                    <label class="control-label" for="Name">Company Name</label>
+                    <div class="controls">
+                        <input type="text" name="Name" id="Name">
+                    </div>
                 </div>
-            </div>
-            <div class="control-group">
-                <div class="controls">
-                    <button type="submit" class="btn">Register</button>
-                </div>
-            </div>
-        </form>
 
+                <div class="control-group">
+                    <label class="control-label" for="Description">Description</label>
+                    <div class="controls">
+                        <input type="text" id="Description" name="Description">
+                    </div>
+                </div>
+                <div class="control-group">
+                    <div class="controls">
+                        <button type="submit" class="btn">Register</button>
+                    </div>
+                </div>
+            </form>
+
+        </div>
     </div>
-</div>
+</body>
+</html>
