@@ -1,43 +1,122 @@
-2015-11-26 15:08:42,090 | DEBUG | Starting~
-2015-11-26 15:08:42,156 | INFO  | Configuration Result:
+2015-11-27 14:27:22,876 | DEBUG | Starting Main~
+2015-11-27 14:27:22,972 | INFO  | Configuration Result:
 [Success] Name CoffeeHouse
 [Success] Description CoffeeHouse Topshelf Host
 [Success] ServiceName CoffeeHouse~
-2015-11-26 15:08:42,159 | INFO  | Topshelf v3.2.150.0, .NET Framework v4.0.30319.34209~
-2015-11-26 15:08:42,173 | DEBUG | Running as a console application, creating the console host.~
-2015-11-26 15:08:42,176 | DEBUG | Starting up as a console application~
-2015-11-26 15:08:42,181 | DEBUG | NancySelfHost - Starting...~
-2015-11-26 15:08:42,546 | INFO  | The CoffeeHouse service is now running, press Control+C to exit.~
-2015-11-26 15:10:57,189 | DEBUG | Starting Main~
-2015-11-26 15:10:57,253 | INFO  | Configuration Result:
+2015-11-27 14:27:22,974 | INFO  | Topshelf v3.2.150.0, .NET Framework v4.0.30319.34209~
+2015-11-27 14:27:23,086 | DEBUG | Running as a console application, creating the console host.~
+2015-11-27 14:27:23,147 | DEBUG | Starting up as a console application~
+2015-11-27 14:27:23,361 | DEBUG | NancySelfHost - Starting...~
+2015-11-27 14:27:25,628 | INFO  | The CoffeeHouse service is now running, press Control+C to exit.~
+2015-11-27 14:27:36,627 | INFO  | Get request http://localhost:8888/coffeeshop/map~
+2015-11-27 14:29:20,692 | DEBUG | Starting Main~
+2015-11-27 14:29:20,744 | INFO  | Configuration Result:
 [Success] Name CoffeeHouse
 [Success] Description CoffeeHouse Topshelf Host
 [Success] ServiceName CoffeeHouse~
-2015-11-26 15:10:57,257 | INFO  | Topshelf v3.2.150.0, .NET Framework v4.0.30319.34209~
-2015-11-26 15:10:57,270 | DEBUG | Running as a console application, creating the console host.~
-2015-11-26 15:10:57,273 | DEBUG | Starting up as a console application~
-2015-11-26 15:10:57,279 | DEBUG | NancySelfHost - Starting...~
-2015-11-26 15:10:57,684 | INFO  | The CoffeeHouse service is now running, press Control+C to exit.~
-2015-11-26 15:13:59,819 | DEBUG | Starting Main~
-2015-11-26 15:13:59,878 | INFO  | Configuration Result:
+2015-11-27 14:29:20,747 | INFO  | Topshelf v3.2.150.0, .NET Framework v4.0.30319.34209~
+2015-11-27 14:29:20,764 | DEBUG | Running as a console application, creating the console host.~
+2015-11-27 14:29:20,767 | DEBUG | Starting up as a console application~
+2015-11-27 14:29:20,785 | DEBUG | NancySelfHost - Starting...~
+2015-11-27 14:29:21,138 | INFO  | The CoffeeHouse service is now running, press Control+C to exit.~
+2015-11-27 14:29:26,231 | INFO  | Get request http://localhost:8888/coffeeshop/map~
+2015-11-27 14:32:55,617 | DEBUG | Starting Main~
+2015-11-27 14:32:55,674 | INFO  | Configuration Result:
 [Success] Name CoffeeHouse
 [Success] Description CoffeeHouse Topshelf Host
 [Success] ServiceName CoffeeHouse~
-2015-11-26 15:13:59,881 | INFO  | Topshelf v3.2.150.0, .NET Framework v4.0.30319.34209~
-2015-11-26 15:13:59,895 | DEBUG | Running as a console application, creating the console host.~
-2015-11-26 15:13:59,897 | DEBUG | Starting up as a console application~
-2015-11-26 15:13:59,927 | DEBUG | NancySelfHost - Starting...~
-2015-11-26 15:14:00,342 | INFO  | The CoffeeHouse service is now running, press Control+C to exit.~
-2015-11-26 15:14:08,340 | INFO  | Get request http://localhost:8888/coffeeshop~
-2015-11-26 15:15:47,741 | DEBUG | Starting Main~
-2015-11-26 15:15:47,796 | INFO  | Configuration Result:
+2015-11-27 14:32:55,676 | INFO  | Topshelf v3.2.150.0, .NET Framework v4.0.30319.34209~
+2015-11-27 14:32:55,691 | DEBUG | Running as a console application, creating the console host.~
+2015-11-27 14:32:55,694 | DEBUG | Starting up as a console application~
+2015-11-27 14:32:55,700 | DEBUG | NancySelfHost - Starting...~
+2015-11-27 14:32:56,078 | INFO  | The CoffeeHouse service is now running, press Control+C to exit.~
+2015-11-27 14:33:14,193 | INFO  | Get request http://localhost:8888/coffeeshop/map~
+2015-11-27 14:45:17,716 | DEBUG | Starting Main~
+2015-11-27 14:45:17,768 | INFO  | Configuration Result:
 [Success] Name CoffeeHouse
 [Success] Description CoffeeHouse Topshelf Host
 [Success] ServiceName CoffeeHouse~
-2015-11-26 15:15:47,798 | INFO  | Topshelf v3.2.150.0, .NET Framework v4.0.30319.34209~
-2015-11-26 15:15:47,809 | DEBUG | Running as a console application, creating the console host.~
-2015-11-26 15:15:47,811 | DEBUG | Starting up as a console application~
-2015-11-26 15:15:47,825 | DEBUG | NancySelfHost - Starting...~
-2015-11-26 15:15:48,184 | INFO  | The CoffeeHouse service is now running, press Control+C to exit.~
-2015-11-26 15:15:56,826 | INFO  | Get request http://localhost:8888/coffeeshop/register~
-2015-11-26 15:16:02,537 | INFO  | Post request http://localhost:8888/coffeeshop/register~
+2015-11-27 14:45:17,771 | INFO  | Topshelf v3.2.150.0, .NET Framework v4.0.30319.34209~
+2015-11-27 14:45:17,784 | DEBUG | Running as a console application, creating the console host.~
+2015-11-27 14:45:17,787 | DEBUG | Starting up as a console application~
+2015-11-27 14:45:17,794 | DEBUG | NancySelfHost - Starting...~
+2015-11-27 14:45:18,174 | INFO  | The CoffeeHouse service is now running, press Control+C to exit.~
+2015-11-27 14:46:23,773 | INFO  | Get request http://localhost:8888/coffeeshop/map~
+2015-11-27 14:51:34,935 | DEBUG | Starting Main~
+2015-11-27 14:51:34,995 | INFO  | Configuration Result:
+[Success] Name CoffeeHouse
+[Success] Description CoffeeHouse Topshelf Host
+[Success] ServiceName CoffeeHouse~
+2015-11-27 14:51:34,997 | INFO  | Topshelf v3.2.150.0, .NET Framework v4.0.30319.34209~
+2015-11-27 14:51:35,009 | DEBUG | Running as a console application, creating the console host.~
+2015-11-27 14:51:35,011 | DEBUG | Starting up as a console application~
+2015-11-27 14:51:35,015 | DEBUG | NancySelfHost - Starting...~
+2015-11-27 14:51:35,366 | INFO  | The CoffeeHouse service is now running, press Control+C to exit.~
+2015-11-27 14:51:42,153 | INFO  | Get request http://localhost:8888/coffeeshop/map~
+2015-11-27 14:51:58,063 | INFO  | Get request http://localhost:8888/coffeeshop/map~
+2015-11-27 15:33:11,455 | DEBUG | Starting Main~
+2015-11-27 15:33:11,514 | INFO  | Configuration Result:
+[Success] Name CoffeeHouse
+[Success] Description CoffeeHouse Topshelf Host
+[Success] ServiceName CoffeeHouse~
+2015-11-27 15:33:11,516 | INFO  | Topshelf v3.2.150.0, .NET Framework v4.0.30319.34209~
+2015-11-27 15:33:11,527 | DEBUG | Running as a console application, creating the console host.~
+2015-11-27 15:33:11,530 | DEBUG | Starting up as a console application~
+2015-11-27 15:33:11,541 | DEBUG | NancySelfHost - Starting...~
+2015-11-27 15:33:11,924 | INFO  | The CoffeeHouse service is now running, press Control+C to exit.~
+2015-11-27 15:33:18,346 | INFO  | Get request http://localhost:8888/coffeeshop/map~
+2015-11-27 15:35:01,948 | DEBUG | Starting Main~
+2015-11-27 15:35:02,000 | INFO  | Configuration Result:
+[Success] Name CoffeeHouse
+[Success] Description CoffeeHouse Topshelf Host
+[Success] ServiceName CoffeeHouse~
+2015-11-27 15:35:02,002 | INFO  | Topshelf v3.2.150.0, .NET Framework v4.0.30319.34209~
+2015-11-27 15:35:02,016 | DEBUG | Running as a console application, creating the console host.~
+2015-11-27 15:35:02,019 | DEBUG | Starting up as a console application~
+2015-11-27 15:35:02,023 | DEBUG | NancySelfHost - Starting...~
+2015-11-27 15:35:02,417 | INFO  | The CoffeeHouse service is now running, press Control+C to exit.~
+2015-11-27 15:35:08,337 | INFO  | Get request http://localhost:8888/coffeeshop/map~
+2015-11-27 15:39:54,949 | DEBUG | Starting Main~
+2015-11-27 15:39:55,000 | INFO  | Configuration Result:
+[Success] Name CoffeeHouse
+[Success] Description CoffeeHouse Topshelf Host
+[Success] ServiceName CoffeeHouse~
+2015-11-27 15:39:55,002 | INFO  | Topshelf v3.2.150.0, .NET Framework v4.0.30319.34209~
+2015-11-27 15:39:55,016 | DEBUG | Running as a console application, creating the console host.~
+2015-11-27 15:39:55,019 | DEBUG | Starting up as a console application~
+2015-11-27 15:39:55,034 | DEBUG | NancySelfHost - Starting...~
+2015-11-27 15:39:55,421 | INFO  | The CoffeeHouse service is now running, press Control+C to exit.~
+2015-11-27 15:40:01,247 | INFO  | Get request http://localhost:8888/coffeeshop/map~
+2015-11-27 15:40:51,179 | DEBUG | Starting Main~
+2015-11-27 15:40:51,228 | INFO  | Configuration Result:
+[Success] Name CoffeeHouse
+[Success] Description CoffeeHouse Topshelf Host
+[Success] ServiceName CoffeeHouse~
+2015-11-27 15:40:51,230 | INFO  | Topshelf v3.2.150.0, .NET Framework v4.0.30319.34209~
+2015-11-27 15:40:51,242 | DEBUG | Running as a console application, creating the console host.~
+2015-11-27 15:40:51,245 | DEBUG | Starting up as a console application~
+2015-11-27 15:40:51,249 | DEBUG | NancySelfHost - Starting...~
+2015-11-27 15:40:51,597 | INFO  | The CoffeeHouse service is now running, press Control+C to exit.~
+2015-11-27 15:40:54,762 | INFO  | Get request http://localhost:8888/coffeeshop/map~
+2015-11-27 15:41:45,040 | DEBUG | Starting Main~
+2015-11-27 15:41:45,093 | INFO  | Configuration Result:
+[Success] Name CoffeeHouse
+[Success] Description CoffeeHouse Topshelf Host
+[Success] ServiceName CoffeeHouse~
+2015-11-27 15:41:45,095 | INFO  | Topshelf v3.2.150.0, .NET Framework v4.0.30319.34209~
+2015-11-27 15:41:45,107 | DEBUG | Running as a console application, creating the console host.~
+2015-11-27 15:41:45,109 | DEBUG | Starting up as a console application~
+2015-11-27 15:41:45,116 | DEBUG | NancySelfHost - Starting...~
+2015-11-27 15:41:45,476 | INFO  | The CoffeeHouse service is now running, press Control+C to exit.~
+2015-11-27 15:41:48,117 | INFO  | Get request http://localhost:8888/coffeeshop/map~
+2015-11-27 15:47:30,854 | DEBUG | Starting Main~
+2015-11-27 15:47:30,907 | INFO  | Configuration Result:
+[Success] Name CoffeeHouse
+[Success] Description CoffeeHouse Topshelf Host
+[Success] ServiceName CoffeeHouse~
+2015-11-27 15:47:30,910 | INFO  | Topshelf v3.2.150.0, .NET Framework v4.0.30319.34209~
+2015-11-27 15:47:30,924 | DEBUG | Running as a console application, creating the console host.~
+2015-11-27 15:47:30,926 | DEBUG | Starting up as a console application~
+2015-11-27 15:47:30,933 | DEBUG | NancySelfHost - Starting...~
+2015-11-27 15:47:31,302 | INFO  | The CoffeeHouse service is now running, press Control+C to exit.~
+2015-11-27 15:47:35,412 | INFO  | Get request http://localhost:8888/coffeeshop/map~

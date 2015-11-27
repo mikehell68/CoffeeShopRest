@@ -1,0 +1,43 @@
+2015-11-26 15:08:42,090 | DEBUG | Starting~
+2015-11-26 15:08:42,156 | INFO  | Configuration Result:
+[Success] Name CoffeeHouse
+[Success] Description CoffeeHouse Topshelf Host
+[Success] ServiceName CoffeeHouse~
+2015-11-26 15:08:42,159 | INFO  | Topshelf v3.2.150.0, .NET Framework v4.0.30319.34209~
+2015-11-26 15:08:42,173 | DEBUG | Running as a console application, creating the console host.~
+2015-11-26 15:08:42,176 | DEBUG | Starting up as a console application~
+2015-11-26 15:08:42,181 | DEBUG | NancySelfHost - Starting...~
+2015-11-26 15:08:42,546 | INFO  | The CoffeeHouse service is now running, press Control+C to exit.~
+2015-11-26 15:10:57,189 | DEBUG | Starting Main~
+2015-11-26 15:10:57,253 | INFO  | Configuration Result:
+[Success] Name CoffeeHouse
+[Success] Description CoffeeHouse Topshelf Host
+[Success] ServiceName CoffeeHouse~
+2015-11-26 15:10:57,257 | INFO  | Topshelf v3.2.150.0, .NET Framework v4.0.30319.34209~
+2015-11-26 15:10:57,270 | DEBUG | Running as a console application, creating the console host.~
+2015-11-26 15:10:57,273 | DEBUG | Starting up as a console application~
+2015-11-26 15:10:57,279 | DEBUG | NancySelfHost - Starting...~
+2015-11-26 15:10:57,684 | INFO  | The CoffeeHouse service is now running, press Control+C to exit.~
+2015-11-26 15:13:59,819 | DEBUG | Starting Main~
+2015-11-26 15:13:59,878 | INFO  | Configuration Result:
+[Success] Name CoffeeHouse
+[Success] Description CoffeeHouse Topshelf Host
+[Success] ServiceName CoffeeHouse~
+2015-11-26 15:13:59,881 | INFO  | Topshelf v3.2.150.0, .NET Framework v4.0.30319.34209~
+2015-11-26 15:13:59,895 | DEBUG | Running as a console application, creating the console host.~
+2015-11-26 15:13:59,897 | DEBUG | Starting up as a console application~
+2015-11-26 15:13:59,927 | DEBUG | NancySelfHost - Starting...~
+2015-11-26 15:14:00,342 | INFO  | The CoffeeHouse service is now running, press Control+C to exit.~
+2015-11-26 15:14:08,340 | INFO  | Get request http://localhost:8888/coffeeshop~
+2015-11-26 15:15:47,741 | DEBUG | Starting Main~
+2015-11-26 15:15:47,796 | INFO  | Configuration Result:
+[Success] Name CoffeeHouse
+[Success] Description CoffeeHouse Topshelf Host
+[Success] ServiceName CoffeeHouse~
+2015-11-26 15:15:47,798 | INFO  | Topshelf v3.2.150.0, .NET Framework v4.0.30319.34209~
+2015-11-26 15:15:47,809 | DEBUG | Running as a console application, creating the console host.~
+2015-11-26 15:15:47,811 | DEBUG | Starting up as a console application~
+2015-11-26 15:15:47,825 | DEBUG | NancySelfHost - Starting...~
+2015-11-26 15:15:48,184 | INFO  | The CoffeeHouse service is now running, press Control+C to exit.~
+2015-11-26 15:15:56,826 | INFO  | Get request http://localhost:8888/coffeeshop/register~
+2015-11-26 15:16:02,537 | INFO  | Post request http://localhost:8888/coffeeshop/register~
